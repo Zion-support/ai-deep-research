@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Deep Research
 
-**ai-deep-research** is part of the Zion Tech Group app network (630+ apps).
+Deep research engine — synthesize complex topics from multiple sources.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-reasoning-engine](https://github.com/Zion-support/ai-reasoning-engine) · [ai-document-search](https://github.com/Zion-support/ai-document-search) · [ai-document-summarizer](https://github.com/Zion-support/ai-document-summarizer) · [ai-neural-search](https://github.com/Zion-support/ai-neural-search) · [zion-ai-knowledge-graph](https://github.com/Zion-support/zion-ai-knowledge-graph)
 
-## Related apps
-- [ai-document-summarizer](https://github.com/Zion-support/ai-document-summarizer) — Key insights from long documents
-- [ai-document-search](https://github.com/Zion-support/ai-document-search) — Semantic document search
-- [ai-patent-search](https://github.com/Zion-support/ai-patent-search) — IP research and novelty checks
-- [zion-ai-knowledge-base](https://github.com/Zion-support/zion-ai-knowledge-base) — Knowledge base
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
