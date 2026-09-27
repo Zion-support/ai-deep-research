@@ -3,9 +3,13 @@
 Part of the **Zion AI App Network** — 770+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
 
 - 🏠 Home: https://ziontechgroup.com
-- 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
+- 🧭 Directory: https://ziontechgroup.com/zion-app-network/
+- 📙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/ai-deep-research/
 - 🔗 Related: [AI Neural Search](https://ziontechgroup.com/ai-neural-search/) · [RAG Forge](https://ziontechgroup.com/rag-forge/) · [Discovery](https://ziontechgroup.com/discovery/)
+
+## 🌟 Developer Tools Suite (GitHub)
+- [AI Code Formatter](https://github.com/Zion-support/ai-code-formatter) · [AI Code Migration](https://github.com/Zion-support/ai-code-migration) · [AI Eval Harness](https://github.com/Zion-support/ai-eval-harness) · [AI Prompt Engineer](https://github.com/Zion-support/ai-prompt-engineer) · [AI ML Pipeline](https://github.com/Zion-support/ai-ml-pipeline)
+- Suite spotlight: [developer-tools-suite.md](https://github.com/Zion-support/zion-network/blob/main/spotlights/developer-tools-suite.md)
 
 © 2026 Zion Tech Group.
